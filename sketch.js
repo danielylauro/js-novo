@@ -6,7 +6,7 @@ let circuloY; // vertical
 //estão armazenando todos os circulos aqui
 
 function setup() {
-  createCanvas(400, 400); //width x height = largura e altura
+  createCanvas(500,500); //width x height = largura e altura
   
   background(color(100,0,0)); //cor fundo
 
