@@ -10,7 +10,7 @@ function setup() {
   
   background(color(100,0,0)); //cor fundo
 
-cor = color(random(0,255), random(0,255), random(0,255));
+cor = color(random(0,255), random(0,255), random(0,245));
 //padrão RGB (tons de vermelho, verde e azul que variam de 0 a 255)
 
   circuloX = [0,0, 0]; //todos os circulo no horizontal começarão em 0
